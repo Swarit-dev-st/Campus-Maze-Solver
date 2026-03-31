@@ -98,8 +98,11 @@ We learned about these concepts:
 
 ## Author
 
-The author of this project is Dhairya Jaiswal, who's a student with the ID 25BAI10441. He is studying for a B.Tech, in Artificial Intelligence and Machine Learning.
+Swarit Singh Chauhan
+
+B.Tech in CSE (AIML).
 
 ## Course
 
-This project was made for the course Fundamentals of Artificial Intelligence and Machine Learning which is called CSA2001.
+Fundamentals of Artificial Intelligence and Machine Learning
+CSA2001.
